@@ -19,6 +19,7 @@ git
 htop
 lshw
 ack
+tmux
 
 #filemanager
 mc
