@@ -7,7 +7,35 @@
 # archfi -cpl url_of_the_file
 
 # Some packages :
-neofetch
+linux
+openssh
+base-devel
+yay
+reflector
+dialog
+networkmanager
 nmon
+git
+htop
 lshw
-# base-devel
+ack
+
+#filemanager
+mc
+ranger
+find
+locate
+updatedb
+
+#text
+vim
+nano
+
+#fun
+cmatrix
+neofetch
+mutt
+rtorrent
+weechat
+curl
+
